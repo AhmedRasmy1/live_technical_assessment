@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782486291367",
+    "project_id": "live-technical-assessment-fr",
+    "storage_bucket": "live-technical-assessment-fr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782486291367:android:e19ac27845a038385b6c82",
+        "android_client_info": {
+          "package_name": "com.example.live_technical_assessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARp8Gvc_wGrhFt4xeTDKhM3sMAtsOzICo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
